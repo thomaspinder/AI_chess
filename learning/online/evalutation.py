@@ -9,24 +9,26 @@ from utilities.constants import *
 
 # TODO: Fix stuck endgame with just a horse and king.etc
 class Evaluator:
-    def __init__(self, number_of_games):
+    def __init__(self, number_of_games, starting_pos=None):
         self.n = number_of_games
         self.results = {}
         self.results_df = None
+        self.start_fen = starting_pos
+        print(self.start_fen)
 
     def test(self, summary=False, verbose=False):
         i = 0
         while i < self.n:
-            if starting_position is None:
+            if self.start_fen is None:
                 chessboard = board.Env()
             else:
-                chessboard = board.Env(starting_pos=starting_position)
+                chessboard = board.Env(starting_pos=self.start_fen)
                 print(chessboard.board)
             player = agent.Agent('white')
             opp = opponent.Adversary(verbose=a_verbose, search_depth=a_depth, max_think=a_think, nodes = stockfish_nodes)
             opp.initialise_engine(chessboard.board)
 
-            while chessboard.active:
+            while chessboard.active and chessboard.move_count < 4:
                 if chessboard.move_count % 2 == 0:
                     # move = player.move_random(chessboard)
                     move = player.move_uct(chessboard, 2)
@@ -67,3 +69,8 @@ class Evaluator:
         if self.results_df is None:
             self._format_results()
         self.results_df.to_csv('results/{}'.format(filename), index=False)
+
+    def return_results(self):
+        if self.results_df is None:
+            self._format_results()
+        return self.results_df

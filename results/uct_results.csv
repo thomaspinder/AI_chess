@@ -1,0 +1,13 @@
+,game,move_count,moves_to_mate,starting_variation,winner
+0,game0,1,mate_in_1,4,White
+1,game1,1,mate_in_1,4,White
+0,game0,4,mate_in_2,4,Black
+1,game1,4,mate_in_2,4,Black
+0,game0,4,mate_in_3,5,Black
+1,game1,4,mate_in_3,5,Black
+0,game0,4,mate_in_4,0,Black
+1,game1,4,mate_in_4,0,Black
+0,game0,4,mate_in_5,0,Black
+1,game1,4,mate_in_5,0,Black
+0,game0,4,mate_in_6,1,Black
+1,game1,4,mate_in_6,1,Black

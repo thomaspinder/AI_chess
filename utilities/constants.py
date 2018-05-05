@@ -1,18 +1,11 @@
 # Main Parameters
-games_to_play = 20
-starting_position = '6k1/4Rppp/8/8/8/8/5PPP/6K1 w - - 0 1'
-games_to_play = 10
-
-# UCT Parameters
-exploration_rate = 2
-uct_max_depth = 5
-uct_sims = 3000
-games_to_play = 1
+games_to_play = 30
+# starting_position = '6k1/4Rppp/8/8/8/8/5PPP/6K1 w - - 0 1'
 
 # UCT Parameters
 exploration_rate = 1
 uct_max_depth = 10
-uct_sims = 500
+uct_sims = 2000
 tree_sims = 1
 
 # Adversary Parameters
