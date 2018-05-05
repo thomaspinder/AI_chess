@@ -1,0 +1,15 @@
+# Main Parameters
+games_to_play = 3
+
+# UCT Parameters
+exploration_rate = 2
+uct_max_depth = 5
+uct_sims = 3000
+tree_sims = 1
+
+# Adversary Parameters
+a_verbose = True
+a_depth = 5
+a_think = 10
+
+# Agent Parameters
