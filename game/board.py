@@ -1,7 +1,7 @@
 import chess
 import random
 import logging
-logging.basicConfig(filename="board.log", level=logging.INFO)
+logging.basicConfig(filename="board.log", filemode='w', level=logging.INFO)
 
 class Env:
     def __init__(self, starting_pos=None):

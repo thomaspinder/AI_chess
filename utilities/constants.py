@@ -1,11 +1,6 @@
 # Main Parameters
-<<<<<<< HEAD
-<<<<<<< HEAD
 games_to_play = 20
 starting_position = '6k1/4Rppp/8/8/8/8/5PPP/6K1 w - - 0 1'
-=======
-=======
->>>>>>> 6b983bd2db4d0b08a86d591c8558bbb9b91c82cd
 games_to_play = 10
 
 # UCT Parameters
@@ -13,7 +8,6 @@ exploration_rate = 2
 uct_max_depth = 5
 uct_sims = 3000
 games_to_play = 1
->>>>>>> 6b983bd2db4d0b08a86d591c8558bbb9b91c82cd
 
 # UCT Parameters
 exploration_rate = 1
