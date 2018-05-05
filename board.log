@@ -5,8 +5,7 @@ INFO:root:Expanding 0
 INFO:root:From Node: 0_1, Result: Draw
 INFO:root:Unexplored Child Nodes Still Exist
 INFO:root:Expanding 0
-INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_2, Result: Draw
 INFO:root:Unexplored Child Nodes Still Exist
 INFO:root:Expanding 0
 INFO:root:From Node: 0_3, Result: Draw
@@ -18,7 +17,7 @@ INFO:root:Expanding 0
 INFO:root:From Node: 0_5, Result: Draw
 INFO:root:Unexplored Child Nodes Still Exist
 INFO:root:Expanding 0
-INFO:root:From Node: 0_6, Result: Win
+INFO:root:From Node: 0_6, Result: Draw
 INFO:root:Unexplored Child Nodes Still Exist
 INFO:root:Expanding 0
 INFO:root:From Node: 0_7, Result: Draw
@@ -36,7 +35,8 @@ INFO:root:Expanding 0
 INFO:root:From Node: 0_11, Result: Draw
 INFO:root:Unexplored Child Nodes Still Exist
 INFO:root:Expanding 0
-INFO:root:From Node: 0_12, Result: Draw
+INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:Unexplored Child Nodes Still Exist
 INFO:root:Expanding 0
 INFO:root:From Node: 0_13, Result: Draw
@@ -59,1922 +59,1922 @@ INFO:root:Unexplored Child Nodes Still Exist
 INFO:root:Expanding 0
 INFO:root:From Node: 0_19, Result: Draw
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win
 INFO:root:0 Expanded
-INFO:root:Expansion Yielded 0_2
+INFO:root:Expansion Yielded 0_12
 INFO:root:No Legal Moves: 4R1k1/5ppp/8/8/8/8/5PPP/6K1 b - - 1 1
-INFO:root:From Node: 0_2, Result: Win
+INFO:root:From Node: 0_12, Result: Win

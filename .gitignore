@@ -12,3 +12,4 @@ learning/offline/data/*
 *.pgn
 *.pgn.bz2
 data/*
+*.log
