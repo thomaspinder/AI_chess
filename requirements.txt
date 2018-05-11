@@ -4,5 +4,4 @@ numpy==1.14.2
 requests==2.18.4
 anytree==2.4.3
 pandas==0.22.0
-ipython==6.3.1
 beautifulsoup4==4.6.0

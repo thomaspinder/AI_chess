@@ -21,11 +21,6 @@ for item in notation:
     mappings[item] = str(i*'0') + str('1') + str(int(len(notation)-int(i)-1) * '0')
     i += 1
 
-
-# pgns = glob.glob('data/*.pgn')
-# for pgn in pgns:
-
-
 pgn = open('learning/offline/data/2013_01.pgn')
 
 number_of_games = 10
@@ -37,7 +32,7 @@ while i < number_of_games:
     game = chess.pgn.read_game(pgn)
     board = game.board()
     to_play = 0 # 0 = White
-    if int(game.headers['BlackElo']) > 1700 and int(game.headers['WhiteElo']) > 1700:
+    if int(game.headers['BlackElo']) > 2200 and int(game.headers['WhiteElo']) > 2200:
         for move in game.main_line():
             training_data.append((fen_expander(board.fen(), mappings), to_play, str(move)))
             if to_play == 0:
