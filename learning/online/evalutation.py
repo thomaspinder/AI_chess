@@ -28,7 +28,7 @@ class Evaluator:
             opp = opponent.Adversary(verbose=a_verbose, search_depth=a_depth, max_think=a_think, nodes = stockfish_nodes)
             opp.initialise_engine(chessboard.board)
 
-            while chessboard.active and chessboard.move_count < 4:
+            while chessboard.active and chessboard.move_count < max_moves:
                 if chessboard.move_count % 2 == 0:
                     # move = player.move_random(chessboard)
                     move = player.move_uct(chessboard, 2)

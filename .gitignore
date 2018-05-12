@@ -3,12 +3,10 @@ __pycache__*
 .idea/*
 stockfish/
 atari.py
-pgn/*
 mcts_demo/*
 .ipynb_checkpoints/*
 .DS_Store
 .DS_Store/*
-learning/offline/data/*
 *.pgn
 *.pgn.bz2
 data/*

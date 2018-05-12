@@ -1,7 +1,5 @@
 import chess.pgn
 import re
-
-
 pgn = open('/home/tpin3694/Documents/python/AI_chess/learning/offline/data/2013_01.pgn')
 
 number_of_games = 10
@@ -35,7 +33,6 @@ def evaluate_fen(fen_string, to_move_dict, notation_list, castling_list, board):
         representation.append(str(v))
         representation.append(k) # TODO: Convert position -k, to a1, b4.etc?
     print(representation)
-
 
 
 while i < number_of_games:
