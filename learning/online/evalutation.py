@@ -48,6 +48,7 @@ class Evaluator:
 
             self.results['game{}'.format(i)] = [chessboard.parse_player(), chessboard.move_count]
             i += 1
+            opp.engine.terminate()
             print('{} games completed.'.format(i))
 
     def _format_results(self):
