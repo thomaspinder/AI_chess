@@ -45,8 +45,12 @@ class Evaluator:
             game.headers['Event'] = 'Game_{}'.format(i)
             pgn_write.write(str(game)+'\n\n')
             pgn_write.close()
-
-            self.results['game{}'.format(i)] = [chessboard.parse_player(), chessboard.move_count]
+            # TODO: Fix the game result - should not be based upon the number of moves
+            if chessboard.move_count == max_moves:
+                game_res = 'draw'
+                self.results['game{}'.format(i)] = [game_res, chessboard.move_count]
+            else:
+                self.results['game{}'.format(i)] = [chessboard.parse_player(), chessboard.move_count]
             i += 1
             opp.engine.terminate()
             print('{} games completed.'.format(i))
