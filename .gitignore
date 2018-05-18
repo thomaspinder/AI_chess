@@ -1,7 +1,7 @@
 __pycache__/*
 __pycache__*
 .idea/*
-stockfish/
+# stockfish/
 atari.py
 mcts_demo/*
 .ipynb_checkpoints/*
@@ -9,5 +9,5 @@ mcts_demo/*
 .DS_Store/*
 *.pgn
 *.pgn.bz2
-data/*
+# data/*
 *.log
