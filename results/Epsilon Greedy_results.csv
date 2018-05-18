@@ -1,0 +1,13 @@
+game,move_count,moves_to_mate,starting_variation,winner,sims,exploration_alg
+game0,4,mate_in_1,4,draw,5,Epsilon Greedy
+game1,1,mate_in_1,4,White,5,Epsilon Greedy
+game0,4,mate_in_2,4,draw,5,Epsilon Greedy
+game1,4,mate_in_2,4,draw,5,Epsilon Greedy
+game0,4,mate_in_3,5,draw,5,Epsilon Greedy
+game1,4,mate_in_3,5,draw,5,Epsilon Greedy
+game0,4,mate_in_4,0,draw,5,Epsilon Greedy
+game1,4,mate_in_4,0,draw,5,Epsilon Greedy
+game0,4,mate_in_5,0,draw,5,Epsilon Greedy
+game1,4,mate_in_5,0,draw,5,Epsilon Greedy
+game0,4,mate_in_6,1,draw,5,Epsilon Greedy
+game1,4,mate_in_6,1,draw,5,Epsilon Greedy

@@ -2,17 +2,17 @@ from game import board, agent, opponent
 import pandas as pd
 import chess.svg
 import chess.pgn
-from IPython.display import SVG
-from learning.online import uct
+from learning.online import explorers
 from utilities.constants import *
 
 
 # TODO: Fix stuck endgame with just a horse and king.etc
 class Evaluator:
-    def __init__(self, number_of_games, starting_pos=None):
+    def __init__(self, number_of_games, exploration, starting_pos=None):
         self.n = number_of_games
         self.results = {}
         self.results_df = None
+        self.exploration = exploration
         self.start_fen = starting_pos
         print(self.start_fen)
 
@@ -23,15 +23,17 @@ class Evaluator:
                 chessboard = board.Env()
             else:
                 chessboard = board.Env(starting_pos=self.start_fen)
-                print(chessboard.board)
+                if i == 0:
+                    print(chessboard.board)
             player = agent.Agent('white')
-            opp = opponent.Adversary(verbose=a_verbose, search_depth=a_depth, max_think=a_think, nodes = stockfish_nodes)
+            opp = opponent.Adversary(verbose=Parameters.a_verbose, search_depth=Parameters.a_depth,
+                                     max_think=Parameters.a_think, nodes = Parameters.stockfish_nodes)
             opp.initialise_engine(chessboard.board)
 
-            while chessboard.active and chessboard.move_count < max_moves:
+            while chessboard.active and chessboard.move_count < Parameters.max_moves:
                 if chessboard.move_count % 2 == 0:
                     # move = player.move_random(chessboard)
-                    move = player.move_uct(chessboard, 2)
+                    move = player.move_mcts(chessboard, self.exploration)
                     print('MOVE: {}'.format(move))
                 else:
                     #move = opp.calculate(chessboard)
@@ -46,7 +48,7 @@ class Evaluator:
             pgn_write.write(str(game)+'\n\n')
             pgn_write.close()
             # TODO: Fix the game result - should not be based upon the number of moves
-            if chessboard.move_count == max_moves:
+            if chessboard.move_count == Parameters.max_moves:
                 game_res = 'draw'
                 self.results['game{}'.format(i)] = [game_res, chessboard.move_count]
             else:

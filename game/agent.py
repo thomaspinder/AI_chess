@@ -28,13 +28,14 @@ class Agent:
         self.get_moves(board.board)
         return random.choice(self.available_moves)
 
-    def move_uct(self, board, exploration_param):
+    def move_mcts(self, board, exploration_obj):
         """
         Calculate and select an action using UCT
         :param board: A board, from the Board object
+        :param exploration_obj: An object to handle the multi-armed bandit scenario that presents itself within MCTS
         :return:
         """
-        tree = uct.MCTS(board, exploration_param)
-        tree.search(uct_sims, tree_sims, True)
-        reccomendation = tree.get_best_action()
-        return reccomendation
+        tree = uct.MCTS(board, exploration_obj)
+        tree.search(Parameters.uct_sims, Parameters.tree_sims)
+        recommendation = tree.get_best_action()
+        return recommendation
