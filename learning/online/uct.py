@@ -27,8 +27,8 @@ class MCTS:
         self.max_depth = Parameters.uct_max_depth
         self.explorer = explorer
         self.maximisation = True
-        self.opponent = opponent.Adversary(verbose=False, search_depth=2, max_think=1)
-        self.opponent.initialise_engine(self.board.board)
+        # self.opponent = opponent.Adversary(verbose=False, search_depth=2, max_think=1)
+        # self.opponent.initialise_engine(self.board.board)
         self.board_evaluator = bev.Simple()
 
     def board_evaluate(self, node):

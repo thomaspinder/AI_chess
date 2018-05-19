@@ -14,6 +14,7 @@ class Evaluator:
         self.results_df = None
         self.exploration = exploration
         self.start_fen = starting_pos
+        # self.opp = opponent
         print(self.start_fen)
 
     def test(self, summary=False, verbose=False):
@@ -26,14 +27,14 @@ class Evaluator:
                 if i == 0:
                     print(chessboard.board)
             player = agent.Agent('white')
-            opp = opponent.Adversary(verbose=Parameters.a_verbose, search_depth=Parameters.a_depth,
-                                     max_think=Parameters.a_think, nodes = Parameters.stockfish_nodes)
-            opp.initialise_engine(chessboard.board)
+            mcts_times = []
+            # self.opp.initialise_engine(chessboard.board)
 
             while chessboard.active and chessboard.move_count < Parameters.max_moves:
                 if chessboard.move_count % 2 == 0:
                     # move = player.move_random(chessboard)
-                    move = player.move_mcts(chessboard, self.exploration)
+                    move, tree_time = player.move_mcts(chessboard, self.exploration)
+                    mcts_times.append(tree_time)
                     print('MOVE: {}'.format(move))
                 else:
                     #move = opp.calculate(chessboard)
@@ -50,16 +51,15 @@ class Evaluator:
             # TODO: Fix the game result - should not be based upon the number of moves
             if chessboard.move_count == Parameters.max_moves:
                 game_res = 'draw'
-                self.results['game{}'.format(i)] = [game_res, chessboard.move_count]
+                self.results['game{}'.format(i)] = [game_res, chessboard.move_count, mcts_times]
             else:
-                self.results['game{}'.format(i)] = [chessboard.parse_player(), chessboard.move_count]
+                self.results['game{}'.format(i)] = [chessboard.parse_player(), chessboard.move_count, mcts_times]
             i += 1
-            opp.engine.terminate()
             print('{} games completed.'.format(i))
 
     def _format_results(self):
         self.results_df = pd.DataFrame(self.results, columns=self.results).transpose().reset_index()
-        self.results_df.columns = ['game', 'winner', 'move_count']
+        self.results_df.columns = ['game', 'winner', 'move_count', 'move_times']
 
     def print_results(self):
         if self.results_df is None:

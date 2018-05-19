@@ -1,6 +1,7 @@
 from learning.online import uct
 import random
 from utilities.constants import *
+import time
 
 class Agent:
     def __init__(self, colour):
@@ -36,6 +37,8 @@ class Agent:
         :return:
         """
         tree = uct.MCTS(board, exploration_obj)
+        start = time.process_time()
         tree.search(Parameters.uct_sims, Parameters.tree_sims)
+        total = time.process_time()-start
         recommendation = tree.get_best_action()
-        return recommendation
+        return recommendation, total
