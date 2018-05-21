@@ -3,7 +3,7 @@ import random
 from anytree import Node, LevelGroupOrderIter, RenderTree
 from utilities import evaluators as bev
 from copy import deepcopy
-from game import opponent
+from learning.offline import load_model as lm
 from utilities.constants import *
 from tqdm import tqdm
 import logging
@@ -27,6 +27,7 @@ class MCTS:
         self.max_depth = Parameters.uct_max_depth
         self.explorer = explorer
         self.maximisation = True
+        self.evaluation_nn = lm.NeuralNet('learning/offline/chess_ann.h5')
         # self.opponent = opponent.Adversary(verbose=False, search_depth=2, max_think=1)
         # self.opponent.initialise_engine(self.board.board)
         self.board_evaluator = bev.Simple()
@@ -85,8 +86,7 @@ class MCTS:
             # If every move has been taken, proceed down the tree
             else:
                 logging.info('{} Expanded'.format(root_node.name))
-                # Update root node based upon optimal UCB evaluation
-                # root_node = self.ucb_heuristic(children_nodes, self.exploration, root_node)
+                # Update root node based upon optimal MAB heuristics evaluation
                 root_node = self.explorer.evaluate(children_nodes)
                 logging.info('Expansion Yielded {}'.format(root_node.name))
                 # Update to reflect whether maximisation or minimisation should take place next time around
@@ -124,15 +124,10 @@ class MCTS:
             current_board.player_update()
             active = current_board.current_player
             while current_board.active:
-                current_board.play_random()
-            #     if active == 'w':
-            #         # If we're playing, move randomly
-            #
-            #         current_board.play_random(verbose=True)
-            #     else:
-            #         # Set stockfish to simulate
-            #         move = self.opponent.calculate(current_board)
-            #         current_board.make_move(str(move))
+                if Parameters.nn_policy:
+                    current_board.play_nn()
+                else:
+                    current_board.play_random()
                 current_board.terminal()
                 current_board.update_methods()
 
@@ -147,6 +142,10 @@ class MCTS:
                 logging.info('From Node: {}, Result: {}'.format(node.name, 'Loss'))
             else:
                 logging.info('From Node: {}, Result: {}'.format(node.name, 'Draw'))
+            if Parameters.nn_evaluation:
+                # TODO: How does the nn print predictions? Is it a 1x3 array?
+                win_prob = self.evaluation_nn.predict(current_board.board.fen())
+                reward += win_prob
             i += 1
         return win_count, reward
 

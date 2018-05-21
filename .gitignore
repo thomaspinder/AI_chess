@@ -11,3 +11,4 @@ mcts_demo/*
 *.pgn.bz2
 # data/*
 *.log
+*.obj

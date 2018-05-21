@@ -1,7 +1,0 @@
-game,move_count,moves_to_mate,starting_variation,winner,sims,exploration_rate
-game0,1,mate_in_1,4,White,100,1
-game0,20,mate_in_2,4,Black,100,1
-game0,20,mate_in_3,5,Black,100,1
-game0,20,mate_in_4,0,Black,100,1
-game0,3,mate_in_5,0,White,100,1
-game0,11,mate_in_6,1,White,100,1

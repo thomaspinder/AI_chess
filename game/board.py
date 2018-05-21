@@ -135,3 +135,6 @@ class Env:
                 logging.info('No Legal Moves: {}'.format(self.board.fen()))
                 self.no_legals = True
                 curr=True
+    def play_nn(self):
+        self.update_l_moves()
+        pass
