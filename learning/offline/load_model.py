@@ -51,10 +51,10 @@ class NeuralNet:
         board_string = board_string.replace('/', '')
         final_string = [self.notation_dict[x] for x in list(board_string)]
         final_string.append(to_move)
-        numpy_final = np.array(final_string)
+        numpy_final = np.array([final_string])
         return numpy_final
 
     def predict(self, obs):
         formatted_fen = self.parse_fen(obs)
-        predictions = self.model.predict_classes(formatted_fen)
-        return predictions[0]
+        predictions = self.model.predict_proba(formatted_fen)
+        return predictions[0][0]

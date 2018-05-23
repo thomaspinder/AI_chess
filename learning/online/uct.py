@@ -3,7 +3,6 @@ import random
 from anytree import Node, LevelGroupOrderIter, RenderTree
 from utilities import evaluators as bev
 from copy import deepcopy
-from learning.offline import load_model as lm
 from utilities.constants import *
 from tqdm import tqdm
 import logging
@@ -12,7 +11,7 @@ logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S
 
 
 class MCTS:
-    def __init__(self, board_env, explorer):
+    def __init__(self, board_env, explorer, board_evaluator):
         """
         An implementation of Monte-Carlo Tree Search for game play. An exploration rate 0.7 is set, as per the advice
         of Martin Mueller (https://scholar.google.com/scholar_url?url=https://link.springer.com/chapter/10.1007/978-3-642-12993-3_6&hl=en&sa=T&oi=gsb&ct=res&cd=0&ei=ME_oWqmzLovCmgH0j73gAQ&scisig=AAGBfm0KuSPQZ3FzXJi9WyFY7n-xi0nrmA)
@@ -27,7 +26,7 @@ class MCTS:
         self.max_depth = Parameters.uct_max_depth
         self.explorer = explorer
         self.maximisation = True
-        self.evaluation_nn = lm.NeuralNet('learning/offline/chess_ann.h5')
+        self.evaluation_nn = board_evaluator
         # self.opponent = opponent.Adversary(verbose=False, search_depth=2, max_think=1)
         # self.opponent.initialise_engine(self.board.board)
         self.board_evaluator = bev.Simple()

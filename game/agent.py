@@ -29,14 +29,14 @@ class Agent:
         self.get_moves(board.board)
         return random.choice(self.available_moves)
 
-    def move_mcts(self, board, exploration_obj):
+    def move_mcts(self, board, exploration_obj, evaluation_fn):
         """
         Calculate and select an action using UCT
         :param board: A board, from the Board object
         :param exploration_obj: An object to handle the multi-armed bandit scenario that presents itself within MCTS
         :return:
         """
-        tree = uct.MCTS(board, exploration_obj)
+        tree = uct.MCTS(board, exploration_obj, evaluation_fn)
         start = time.process_time()
         tree.search(Parameters.uct_sims, Parameters.tree_sims)
         total = time.process_time()-start
