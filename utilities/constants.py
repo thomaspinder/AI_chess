@@ -3,7 +3,7 @@ from learning.online import explorers
 
 class Parameters:
     # Main Parameters
-    games_to_play = 20
+    games_to_play = 10
     max_moves = 20
     # starting_position = '6k1/4Rppp/8/8/8/8/5PPP/6K1 w - - 0 1'
     nn_policy = False
@@ -13,7 +13,7 @@ class Parameters:
     exploration_alg = explorers.UCB()
     exploration_rate = 1
     uct_max_depth = 12
-    uct_sims = 900
+    uct_sims = 400
     tree_sims = 1
 
     # Adversary Parameters

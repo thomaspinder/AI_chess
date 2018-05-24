@@ -4,7 +4,7 @@ library(stringr)
 library(reshape2)
 library(ggplot2)
 
-adhoc_data <- data.frame(input = readLines('/home/tpin3694/Documents/python/AI_chess/results/UCB_wout_nn_400_results.csv')) 
+adhoc_data <- data.frame(input = readLines('/home/tpin3694/Documents/python/AI_chess/results/UCB_wout_nn_400results.csv')) 
 
 adhoc_split <- data.frame(str_split_fixed(adhoc_data$input, ',', 8)) %>% 
   `colnames<-`(c('game', 'move_count','move_times', 'mate_count', 'starting_var', 'winner', 'simulation', 'exp_alg')) %>% 

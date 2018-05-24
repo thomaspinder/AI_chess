@@ -4,7 +4,8 @@ library(stringr)
 library(reshape2)
 library(ggplot2)
 
-directory = '/home/tpin3694/Documents/python/AI_chess/results/clean'
+rm(list=ls())
+directory = '/home/tpin3694/Documents/python/AI_chess/results/full/clean/'
 setwd(directory)
 file_list = list.files()
 
@@ -34,7 +35,7 @@ nn_times_wout <- times %>%
   filter(nn_status!='Present') %>% 
   select(value)
 
-t.test(nn_times_w, nn_times_wout, var.equal = FALSE)
+# t.test(nn_times_w, nn_times_wout, var.equal = FALSE)
 
 results <- results %>% 
   filter(value > 0) %>% 
@@ -70,7 +71,8 @@ print(wins_by_puzzle)
 wis_by_nn <- results %>% 
   group_by(nn_status, winner_bool) %>% 
   summarise(total = n()) %>% 
-  mutate(prop = total/sum(total))
+  mutate(prop = total/sum(total),
+         se = sqrt((prop*(1-prop))/total))
 
 print('Wins by network status:')
 print(wis_by_nn)
@@ -78,6 +80,7 @@ print(wis_by_nn)
 wis_by_nn %>% 
   ggplot(aes(x = nn_status, y = prop, fill=winner_bool)) +
   geom_bar(stat='identity', position ='dodge') +
+  geom_errorbar(aes(ymin=prop-se, ymax=prop+se), position=position_dodge(.9), width=0.4)+
   labs(x='Algorithm', y = 'Result Proportion', title = 'Result Proportions by Neural Network Presence', fill='Game Result')+
   theme_minimal()
 
@@ -86,20 +89,26 @@ wins_by_nn_puz <- results %>%
   group_by(nn_status, winner_bool, mate_count) %>% 
   summarise(total = n()) %>%
   group_by(mate_count) %>% 
-  mutate(prop = total/sum(total))
+  mutate(prop = total/sum(total),
+         se = sqrt((prop*(1-prop))/total))
 
 print('Wins by network status and puzzle:')
 print(wins_by_nn_puz)
 
 wins_by_nn_puz %>% 
   group_by(winner_bool, mate_count) %>% 
-  summarise(tot = sum(prop)) %>% 
+  summarise(tot = sum(prop),
+            total=sum(total),
+            se = sqrt((tot*(1-tot))/total)) %>% 
   ggplot(aes(x = mate_count, y = tot, fill=winner_bool)) +
   geom_bar(stat='identity', position='dodge') +
+  geom_errorbar(aes(ymin=tot-se, ymax=tot+se),position=position_dodge(.9), width=0.4)+
   labs(x='Checkmate Puzzle', y = 'Result Proportion', title='Result Proportions by Mate Puzzle', fill='Game Status')+
   theme_minimal()
 
-wins_by_puzzle
+wins_by_nn_puz %>% 
+  group_by(winner_bool, mate_count) %>% 
+  summarise(tot = sum(total))
 
 prop.test(table(results$nn_status, results$winner_bool))
 
@@ -107,6 +116,15 @@ mab_split <- results %>%
   group_by(winner_bool, exp_alg) %>% 
   summarise(total = n()) %>% 
   group_by(exp_alg) %>% 
-  mutate(prop = total/sum(total))
-mab_split
+  mutate(prop = total/sum(total),
+         se = sqrt((prop*(1-prop))/sqrt(total)))
+
+mab_split %>% 
+  ggplot(aes(x = exp_alg, y = prop, fill=winner_bool)) +
+  geom_bar(stat='identity', position='dodge') +
+  geom_errorbar(aes(ymin=prop-se, ymax=prop+se),position=position_dodge(.9), width=0.4)+
+  labs(x='MAB Heuristic', y = 'Result Proportion', title='Result Proportions by MAB Heuristic', fill='Game Status')+
+  theme_minimal()
+
+
 table(results$exp_alg, results$winner_bool)
