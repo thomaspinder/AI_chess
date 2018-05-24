@@ -9,10 +9,10 @@ results_df = pd.DataFrame(columns=['moves_to_mate', 'starting_variation', 'game'
 opp = op.Adversary(verbose=Parameters.a_verbose, search_depth=Parameters.a_depth,
                                  max_think=Parameters.a_think, nodes=Parameters.stockfish_nodes)
 nn_evaluator = lm.NeuralNet('learning/offline/chess_ann.h5')
-if nn_evaluator:
+if Parameters.nn_evaluation:
     nn_bool = 'with_nn'
 else:
-    nn_bool = ''
+    nn_bool = 'wout_nn'
 print('Objects Loaded.')
 if end_games:
     for k, v in Parameters.end_games.items():

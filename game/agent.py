@@ -1,4 +1,4 @@
-from learning.online import uct
+from learning.online import mcts
 import random
 from utilities.constants import *
 import time
@@ -36,7 +36,7 @@ class Agent:
         :param exploration_obj: An object to handle the multi-armed bandit scenario that presents itself within MCTS
         :return:
         """
-        tree = uct.MCTS(board, exploration_obj, evaluation_fn)
+        tree = mcts.MCTS(board, exploration_obj, evaluation_fn)
         start = time.process_time()
         tree.search(Parameters.uct_sims, Parameters.tree_sims)
         total = time.process_time()-start
