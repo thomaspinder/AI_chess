@@ -31,7 +31,7 @@ if end_games:
         results_df = results_df.append(results_temp)
     results_df['sims'] = Parameters.uct_sims
     results_df['exploration_alg'] = Parameters.exploration_alg.name
-    results_df.to_csv('results/{}_{}_results.csv'.format(Parameters.exploration_alg.name, nn_bool), index=False)
+    results_df.to_csv('results/{}_{}_{}results.csv'.format(Parameters.exploration_alg.name, nn_bool, Parameters.uct_sims), index=False)
 else:
     i=0
     testing = ev.Evaluator(Parameters.games_to_play, Parameters.exploration_alg, nn_evaluator)
